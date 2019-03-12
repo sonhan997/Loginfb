@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "32190466621",
+    "firebase_url": "https://connectfb-be7ad.firebaseio.com",
+    "project_id": "connectfb-be7ad",
+    "storage_bucket": "connectfb-be7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32190466621:android:82399dfea2bac678",
+        "android_client_info": {
+          "package_name": "com.example.connectfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32190466621-tdgt7j6mfbst0ta0bog31el17ba3m3k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connectfb",
+            "certificate_hash": "e83db8eb4f2c0a2e93a5d046806305fda5862b1a"
+          }
+        },
+        {
+          "client_id": "32190466621-9tau35sh7dlcnsvkkag06e9k1gkqoikf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURkGgYcZhkLJbdjNq16Yo8p9RM1ExPyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32190466621-9tau35sh7dlcnsvkkag06e9k1gkqoikf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
